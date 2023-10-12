@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkitem_choice"]=self["webpackChunkitem_choice"]||[]).push([[443],{8539:function(e,n,c){c.r(n),c.d(n,{default:function(){return a}});var r=c(3396);function t(e,n,c,t,u,f){return(0,r.wg)(),(0,r.iD)("div",null," efefeff ")}var u={},f=c(89);const i=(0,f.Z)(u,[["render",t]]);var a=i}}]);
+//# sourceMappingURL=about.8fda09dc.js.map
